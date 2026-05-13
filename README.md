@@ -84,6 +84,9 @@ The model demonstrates effective classification performance on ultrasound images
 * F1-Score
 * Confusion Matrix
 
+<img width="484" height="390" alt="image" src="https://github.com/user-attachments/assets/206e2e3d-d67f-4897-9ad2-bffdf1701f47" />
+
+
 ---
 
 ## Project Structure
