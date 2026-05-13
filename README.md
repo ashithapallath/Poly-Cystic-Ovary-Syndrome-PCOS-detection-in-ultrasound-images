@@ -6,6 +6,9 @@ This project presents a deep learning-based Computer-Aided Diagnosis (CAD) syste
 
 The system aims to reduce manual interpretation effort and improve diagnostic support in clinical settings.
 
+<img width="1760" height="611" alt="image" src="https://github.com/user-attachments/assets/50436ad6-70ba-4f1c-92e3-47a9ea69adfc" />
+
+
 ---
 
 ## Features
