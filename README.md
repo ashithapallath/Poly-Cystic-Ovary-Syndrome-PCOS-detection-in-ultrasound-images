@@ -44,6 +44,9 @@ The project uses ovarian ultrasound images for binary classification.
 * PCOS
 * Normal
 
+<img width="590" height="390" alt="image" src="https://github.com/user-attachments/assets/3d28cf3e-4d67-43df-ba5e-5ed52ba454f1" />
+
+
 ### Preprocessing Steps
 
 * Image resizing
