@@ -7,7 +7,6 @@ This project presents a deep learning-based Computer-Aided Diagnosis (CAD) syste
 The system aims to reduce manual interpretation effort and improve diagnostic support in clinical settings.
 
 <img width="1760" height="611" alt="image" src="https://github.com/user-attachments/assets/50436ad6-70ba-4f1c-92e3-47a9ea69adfc" />   
-<img width="484" height="390" alt="image" src="https://github.com/user-attachments/assets/bdaf5539-c128-4fde-92b5-b2b5e4adf0e3" />
 
 
 
@@ -87,6 +86,10 @@ The model demonstrates effective classification performance on ultrasound images
 * Confusion Matrix
 
 <img width="484" height="390" alt="image" src="https://github.com/user-attachments/assets/206e2e3d-d67f-4897-9ad2-bffdf1701f47" />
+<img width="484" height="390" alt="image" src="https://github.com/user-attachments/assets/bdaf5539-c128-4fde-92b5-b2b5e4adf0e3" />
+
+
+<img width="1189" height="240" alt="image" src="https://github.com/user-attachments/assets/63cf6221-5301-4e95-a87c-9fbe5e989474" />
 
 
 ---
